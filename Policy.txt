@@ -1,0 +1,3 @@
+Hello there, welcome to documents. Here, you will find importand docs.
+You now have my permisson ONLY to use text and python files, unless I give 
+you permission. If your files have serious errors, delete them right away.
